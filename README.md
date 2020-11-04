@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements a simple calculator using React.
+
+## Live Version
+
+The project is deployed on Heroku, and can be accessed [here](https://keshav-calculator.herokuapp.com/)
 
 ## Available Scripts
 
@@ -68,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Acknowledgements
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
