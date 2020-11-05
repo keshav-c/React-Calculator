@@ -24,4 +24,4 @@ Calculator.propTypes = {
   name: PropTypes.string,
 };
 
-ReactDOM.render(<Calculator name="Keshav's" />, document.getElementById('root'));
+ReactDOM.render(<Calculator name="Second Milestone" />, document.getElementById('root'));
